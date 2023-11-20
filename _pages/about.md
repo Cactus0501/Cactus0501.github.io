@@ -18,7 +18,7 @@ You can find my CV here: [Cactus's Curriculum Vitae](../assets/RongZheng_Xiang_C
 
 
 
-Research Experience
+Research Experience                                                                                                                         
 A Sequential Recommendation Model Based on Adversarial Masking and Self-attentive Model(until now)
 ======
 ⮚	Generated user interests prediction by sequential recommendation model                                                                                

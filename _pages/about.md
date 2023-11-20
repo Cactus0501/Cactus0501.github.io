@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "who am I"
+title: "Who am I"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of AI and automation](https://xxxb.bjut.edu.cn/szdw/jsjs1/rgznyzdhx.htm), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes machine learning, artificial intelligence, and sequential recommendation.
+I'm a junior-year undergraduate student from [School of AI and Automation](https://xxxb.bjut.edu.cn/szdw/jsjs1/rgznyzdhx.htm), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes machine learning, artificial intelligence, and sequential recommendation.
 
- I was advised by [Prof. Jian Yang](https://xxxb.bjut.edu.cn/info/1403/2486.htm) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+ I was advised by [Prof. Jian Yang](https://xxxb.bjut.edu.cn/info/1403/2486.htm) of Pattern Recognition Research Institute from [School of AI and automation](https://xxxb.bjut.edu.cn/szdw/jsjs1/rgznyzdhx.htm), Beijing University of Technology.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Cactus's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg)
+[Email](mailto:xiangrongzheng@emails.bjut.edu.cn) / [Github](https://github.com/Cactus0501) / [Wechat](../images/wechat.jpg)
 
 
 

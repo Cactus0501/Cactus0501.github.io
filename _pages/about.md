@@ -15,10 +15,7 @@ I'm a junior-year undergraduate student from [School of AI and Automation](https
 You can find my CV here: [Cactus's Curriculum Vitae](../assets/RongZheng_Xiang_CV.pdf).
 
 [Email](mailto:xiangrongzheng@emails.bjut.edu.cn) / [Github](https://github.com/Cactus0501) / [Wechat](../images/wechat.jpg)
-
-
-
-Research Experience                                                                                                                         
+                                                                                                                      
 A Sequential Recommendation Model Based on Adversarial Masking and Self-attentive Model(until now)
 ======
 ⮚	Generated user interests prediction by sequential recommendation model                                                                                

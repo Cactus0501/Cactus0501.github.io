@@ -9,7 +9,7 @@ location: "Beijing, China"
 ---
 
 ⮚	Processed large volumes of textual dataset via data mining and word segmentation techniques<br />                                                        
-⮚	Constructed the testing and training dataset with extracted key information<br />                                                                     
+⮚	Constructed the testing and training dataset with extracted key information <br />                                                                     
 ⮚	Participated the hypertension early warning model based on Health Electronic Records dataset research<br />  
 ⮚	Conducted the analysis, evaluation benchmark and test work on warning model                                                              
 

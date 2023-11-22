@@ -8,9 +8,12 @@ date: 2023-07-01
 location: "Beijing, China"
 ---
 
-⮚	Generated user interests prediction by sequential recommendation model  <br />
-⮚	Iterated the masking model to enlarge similarity distance between training set and masking set <br />
-⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item <br />
+⮚	Generated user interests prediction by sequential recommendation model  <br />  
+
+⮚	Iterated the masking model to enlarge similarity distance between training set and masking set <br />  
+
+⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item <br />  
+
 ⮚	Utilized adversarial masking mechanism to optimize the loss function for training model and masking model simultaneously
 
 

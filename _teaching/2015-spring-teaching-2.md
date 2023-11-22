@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
+title: "A Sequential Recommendation Model Based on Adversarial Masking and Self-attentive Model"
+collection: research
+type: "Prof.Jian Yang"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Beijing University of Technology, School of Artificial Intelligence and Automation"
+date: 2023-07-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+⮚	Generated user interests prediction by sequential recommendation model  <br />
+⮚	Iterated the masking model to enlarge similarity distance between training set and masking set <br />
+⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item <br />
+⮚	Utilized adversarial masking mechanism to optimize the loss function for training model and masking model simultaneously
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

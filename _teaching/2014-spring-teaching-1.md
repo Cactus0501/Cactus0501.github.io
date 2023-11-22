@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Research on Hypertension Early Warning Model Based on Electronic Health Records"
+collection: research
+type: "Dr.Jianhui CHEN"
+venue: "Beijing University of Technology, School of Artificial Intelligence and Automation"
+date: 2021.11-2023.3
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+⮚	Processed large volumes of textual dataset via data mining and word segmentation techniques
+⮚	Constructed the testing and training dataset with extracted key information
+⮚	Participated the hypertension early warning model based on Health Electronic Records dataset research
+⮚	Conducted the analysis, evaluation benchmark and test work on warning model
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======

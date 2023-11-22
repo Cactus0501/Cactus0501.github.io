@@ -15,11 +15,11 @@ Education
 
 Research experience
 ======
-A Sequential Recommendation Model Based on Adversarial Masking and Self-attention Mechanism
-⮚	Generated user interests prediction by sequential recommendation model  
-⮚	Iterated the masking model to enlarge similarity distance between training set and masking set
-⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item
-⮚	Utilized adversarial masking mechanism to optimize the loss function for training model and masking model simultaneously
+A Sequential Recommendation Model Based on Adversarial Masking and Self-attention Mechanism      \n
+⮚	Generated user interests prediction by sequential recommendation model  \n
+⮚	Iterated the masking model to enlarge similarity distance between training set and masking set \n
+⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item \n
+⮚	Utilized adversarial masking mechanism to optimize the loss function for training model and masking model simultaneously \n
 
 
 Work experience

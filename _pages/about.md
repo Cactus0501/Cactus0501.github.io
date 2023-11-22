@@ -16,21 +16,6 @@ You can find my CV here: [Cactus's Curriculum Vitae](../assets/RongZheng_Xiang_C
 
 [Email](mailto:xiangrongzheng@emails.bjut.edu.cn) / [Github](https://github.com/Cactus0501) / [Wechat](../images/wechat.jpg)
                                                                                                                       
-A Sequential Recommendation Model Based on Adversarial Masking and Self-attentive Model(until now)
-======
-⮚	Generated user interests prediction by sequential recommendation model                                                                                
-⮚	Iterated the masking model to enlarge similarity distance between training set and masking set                                                                                                       
-⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item                                                                                           
-⮚	Utilized adversarial masking mechanism to optimize the loss function for training model and masking model simultaneously                                                                                    
-
-Research on Hypertension Early Warning Model Based on Electronic Health Records
-======
-⮚	Processed large volumes of textual dataset via data mining and word segmentation techniques                                                                                          
-⮚	Constructed the testing and training dataset with extracted key information                                                                                                            
-⮚	Participated the hypertension early warning model based on Health Electronic Records dataset research                                                                             
-⮚	Conducted the analysis, evaluation benchmark and test work on warning model                                                                                 
-
-
 
 Hobby & Interest
 ======

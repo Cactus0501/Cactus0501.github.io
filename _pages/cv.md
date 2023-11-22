@@ -13,6 +13,15 @@ Education
 ======
 * B.S. in China, Beijing University of Technology, 2025(expected)
 
+Research experience
+======
+A Sequential Recommendation Model Based on Adversarial Masking and Self-attention Mechanism
+⮚	Generated user interests prediction by sequential recommendation model  
+⮚	Iterated the masking model to enlarge similarity distance between training set and masking set
+⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item
+⮚	Utilized adversarial masking mechanism to optimize the loss function for training model and masking model simultaneously
+
+
 Work experience
 ======
 * Summer 2023: Project Assistant

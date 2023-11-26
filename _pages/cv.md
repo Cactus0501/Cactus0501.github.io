@@ -19,15 +19,19 @@ Work experience
 ======
 * Summer 2023: Project Assistant
   * State Grid Corporation of China
-  * Maintained operation of residential electrical equipment, and collected data information 
+  * Maintained operation of residential electrical equipment, and collected data information
+  * Analyzed and processed data, eliminate abnormal data and noise interference to improve data quality and reliability, and provide support for subsequent business decisions. 
 
 Skills
 ======
-* C
+* C/C++
+* Java
 * Python
   * pytorch
+  * TensorFlow
   * recbole
 * Matlab
+* Keil
 
 Publications
 ======

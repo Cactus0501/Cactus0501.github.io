@@ -3,7 +3,7 @@ title: "A Sequential Recommendation Model Based on Adversarial Masking and Self-
 collection: research
 type: "Prof.Jian Yang"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Beijing University of Technology, School of Artificial Intelligence and Automation"
+venue: "Beijing University of Technology, Department of Artificial Intelligence and Automation"
 date: 2023-07-01
 location: "Beijing, China"
 ---

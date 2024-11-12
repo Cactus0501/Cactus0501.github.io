@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior-year undergraduate student from [Department of Artificial Intelligence and Automation](https://xxxb.bjut.edu.cn/szdw/jsjs1/rgznyzdhx.htm), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes machine learning, artificial intelligence, and sequential recommendation.
+I'm a junior-year undergraduate student from [School of Information Science and Technology](https://sist.bjut.edu.cn/index.htm), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes machine learning, artificial intelligence, and sequential recommendation.
 
- I was advised by [Prof. Jian Yang](https://xxxb.bjut.edu.cn/info/1403/2486.htm) of Pattern Recognition Research Institute from [Department of Artificial Intelligence and Automation](https://xxxb.bjut.edu.cn/szdw/jsjs1/rgznyzdhx.htm), Beijing University of Technology.
+ I was advised by [Prof. Jian Yang](https://xxxb.bjut.edu.cn/info/1403/2486.htm) of Pattern Recognition Research Institute from [School of Information Science and Technology](https://sist.bjut.edu.cn/index.htm), Beijing University of Technology.
 
 You can find my CV here: [Rongzheng_XIANG_CV](../assets/RongZheng_Xiang_CV.pdf).
 

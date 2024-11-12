@@ -19,8 +19,8 @@ You can find my CV here: [Cactus's Curriculum Vitae](../assets/RongZheng_Xiang_C
 
 Hobby & Interest
 ======
-I'm a fitness enthusiast, and I head to the gym at least three days a week to build my muscles.What'more, I am more than glad to discuss political, historical and philosophical content with my friends and would like to get a different perspective from others.
+Fitness, photography and cooking.
 
 Current goals
 ======
-Apply for a master's degree in Canada.
+Apply for a master program in Japan.

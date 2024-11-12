@@ -14,7 +14,7 @@ I'm a junior-year undergraduate student from [Department of Artificial Intellige
 
 You can find my CV here: [Rongzheng_XIANG_CV](../assets/RongZheng_Xiang_CV.pdf).
 
-[Email](mailto:xiangrongzheng@emails.bjut.edu.cn) / [Github](https://github.com/Cactus0501) / [instagram](https://www.instagram.com/kouyousei51?igsh=OGQ5ZDc2ODk2ZA==)
+[Email](mailto:xiangrongzheng@emails.bjut.edu.cn) / [Github](https://github.com/Cactus0501) / [Instagram](https://www.instagram.com/kouyousei51?igsh=OGQ5ZDc2ODk2ZA==)
                                                                                                                       
 
 Hobby & Interest

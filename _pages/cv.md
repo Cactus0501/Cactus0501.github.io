@@ -31,9 +31,8 @@ Skills
   * TensorFlow
   * recbole
 * Matlab
-* Keil
 
 Publications
 ======
-  There will be!!!
+[1]Xiang, R., Huang, J., Yang, J. (2025). Contrastive learning with adversarial masking for sequential recommendation. Electronic Commerce Research and Applications. (Under Review)
   

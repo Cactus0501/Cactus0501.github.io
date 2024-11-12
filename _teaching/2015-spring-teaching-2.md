@@ -1,5 +1,5 @@
 ---
-title: "A Sequential Recommendation Model Based on Adversarial Masking and Self-attentive Model"
+title: "Contrastive Learning with Adversarial Masking for Sequential Recommendation"
 collection: research
 type: "Prof.Jian Yang"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,9 +8,8 @@ date: 2023-07-01
 location: "Beijing, China"
 ---
 
-⮚	Generated user interests prediction by sequential recommendation model  <br />                      
-⮚	Iterated the masking model to enlarge similarity distance between training set and masking set <br />                                   
-⮚	Iterated the training model to eliminate similarly distance between recommendation item and original item <br />                                                                 
-⮚	Utilized adversarial masking mechanism to optimize the loss function for training model and masking model simultaneously
-
+⮚	Introduced adversarial masks within the embedding layer, creating different augmentation views specifically designed for the SR task  <br />                      
+⮚	Integrated an inference module with an occlusion module, which not only refines the mask generation mechanism but also improves the recommendation task to higher levels of accuracy and efficiency <br />                                   
+                                                            
+⮚	Conducted a comprehensive set of experiments on four public datasets, which demonstrate the superiority of our proposed model over state-of-the-art baselines
 

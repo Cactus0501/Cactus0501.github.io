@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in China, Beijing University of Technology, 2025(expected)
+* B.S. in China, Beijing University of Technology, 2025 (expected)
 
 
 

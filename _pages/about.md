@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Who am I"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I'm a junior-year undergraduate student from [School of Information Science and Technology](https://sist.bjut.edu.cn/index.htm), [Beijing University of Technology](https://www.bjut.edu.cn/). My research interest includes machine learning, image process, computer vision, data augmentation and recommendation.
 

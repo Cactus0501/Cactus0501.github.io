@@ -1,7 +1,7 @@
 ---
 title: "Contrastive Learning with Adversarial Masking for Sequential Recommendation"
 collection: research
-type: "Prof. Jian Yang"
+type: "Prof. Jian YANG"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Beijing University of Technology, School of Information Science and Technology"
 date: 2023-07-01

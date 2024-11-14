@@ -15,4 +15,4 @@ location: "Beijing, China"
 
 Framework
 ======
-![picture](Framework1.pdf)
+![picture](Framework.png)

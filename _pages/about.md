@@ -14,7 +14,7 @@ I'm a junior-year undergraduate student from [School of Information Science and 
 
  Now I'm a NUPACE exchange student in [Nagoya University](https://www.nagoya-u.ac.jp/), advised by [Prof. Toshiaki FUJII](https://profs.provost.nagoya-u.ac.jp/html/100001881_en.html) of [School of Engineering Electrical Engineering, Electronics, and Information Engineering](https://www.nuee.nagoya-u.ac.jp/), [Nagoya University](https://www.nagoya-u.ac.jp/).
 
-You can find my CV here: [Rongzheng_XIANG_CV](../assets/RongZheng_Xiang_CV.pdf).
+You can find my CV here: [Rongzheng XIANG CV](../assets/RongZheng_Xiang_CV.pdf).
 
 [Email](mailto:xiangrongzheng@emails.bjut.edu.cn) / [Github](https://github.com/Cactus0501) / [Instagram](https://www.instagram.com/kouyousei51?igsh=OGQ5ZDc2ODk2ZA==)
                                                                                                                       

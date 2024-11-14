@@ -12,7 +12,7 @@ I'm a junior-year undergraduate student from [School of Information Science and 
 
  I was advised by [Prof. Jian Yang](https://sist.bjut.edu.cn/info/1403/2486.htm) of Pattern Recognition Research Institute from [School of Information Science and Technology](https://sist.bjut.edu.cn/index.htm), [Beijing University of Technology](https://www.bjut.edu.cn/).
 
- Now I'm a NUPACE exchange student in [Nagoya University](https://www.nagoya-u.ac.jp/), advised by [Prof. Toshiaki FUJII](https://profs.provost.nagoya-u.ac.jp/html/100001881_en.html) of [School of Engineering Electrical Engineering, Electronics, and Information Engineering]{https://www.nuee.nagoya-u.ac.jp/}, [Nagoya University](https://www.nagoya-u.ac.jp/).
+ Now I'm a NUPACE exchange student in [Nagoya University](https://www.nagoya-u.ac.jp/), advised by [Prof. Toshiaki FUJII](https://profs.provost.nagoya-u.ac.jp/html/100001881_en.html) of [School of Engineering Electrical Engineering, Electronics, and Information Engineering](https://www.nuee.nagoya-u.ac.jp/), [Nagoya University](https://www.nagoya-u.ac.jp/).
 
 You can find my CV here: [Rongzheng_XIANG_CV](../assets/RongZheng_Xiang_CV.pdf).
 

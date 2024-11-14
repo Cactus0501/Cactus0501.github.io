@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rongzheng Xiang/Personal Homepage"
+title                    : "HOMEPAGE"
 title_separator          : "-"
-name                     : &name "Rongzheng Xiang"
-description              : &description "a junior-year undergraduate student from Beijing University of Technology"
+name                     : &name "Rongzheng XIANG"
+description              : &description "a senior-year undergraduate student from Beijing University of Technology"
 url                      : https://cactus0501.github.io # the base hostname & protocol for your site e.g. "https://cactus0501.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Cactus0501/cactus0501.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rongzheng Xiang"
+  name             : "Rongzheng XIANG"
   avatar           : "minenewnew.png"
-  bio              : "There is no royal road to learning."
-  location         : "Beijing, China"
+  bio              : "A senior-year undergraduate student from Beijing University of Technology, NUPACE exchange student in Nagoya University"
+  location         : "Nagoya, Aichi, Japan"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "kouyousei51@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

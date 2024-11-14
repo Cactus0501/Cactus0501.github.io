@@ -3,7 +3,7 @@ title: "Research on Hypertension Early Warning Model Based on Electronic Health 
 collection: research
 type: "Dr. Jianhui CHEN"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Beijing University of Technology, Department of Artificial Intelligence and Automation"
+venue: "Beijing University of Technology, School of Information Science and Technology"
 date: 2021-11-1
 location: "Beijing, China"
 ---

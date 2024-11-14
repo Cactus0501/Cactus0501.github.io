@@ -24,12 +24,11 @@ Work experience
 
 Skills
 ======
-* C/C++
-* Java
+* C
 * Python
-  * pytorch
+  * Pytorch
   * TensorFlow
-  * recbole
+  * Recbole
 * Matlab
 
 Publications
